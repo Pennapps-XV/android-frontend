@@ -35,10 +35,11 @@
 
         <TextView
             android:text="      Shop Right is an Phone App that can help you compare and select goods at most supermarkets effectively and visually. You can either take a picture of a shelf of goods or search in our database. We would provide you a visual comparison and help you to select your ideal product."
-            android:textSize="36px"
+            android:textSize="54px"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/textView" />
+
 
         <Space
             android:layout_width="match_parent"
