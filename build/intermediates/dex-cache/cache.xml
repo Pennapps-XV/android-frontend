@@ -70,7 +70,7 @@
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="50b8a7f7faef633df61e02eb011a41b6a4ea4890">
+        sha1="5f02c8b592eafe1409aec3eab6645dd42f4d922a">
         <dex dex="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f1101e04076c2788a3dd50f426a127e3e45375d2/classes.dex" />
     </item>
     <item
