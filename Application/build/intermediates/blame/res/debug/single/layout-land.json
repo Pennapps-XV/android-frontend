@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/kusti8/android-Camera2Basic/Application/build/intermediates/res/merged/debug/layout-land/fragment_camera2_basic.xml",
+        "source": "/home/kusti8/android-Camera2Basic/Application/src/main/res/layout-land/fragment_camera2_basic.xml"
+    },
+    {
+        "merged": "/home/kusti8/android-frontend/android-Camera2Basic/Application/build/intermediates/res/merged/debug/layout-land/fragment_camera2_basic.xml",
+        "source": "/home/kusti8/android-frontend/android-Camera2Basic/Application/src/main/res/layout-land/fragment_camera2_basic.xml"
+    }
+]
