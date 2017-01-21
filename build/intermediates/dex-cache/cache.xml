@@ -3,11 +3,20 @@
 
     <item
         is-multidex="true"
+        jar="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/app/build/intermediates/exploded-aar/com.android.volley/volley/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.volley-volley-1.0.0_8ce173959a93cbfd8e4e4ec7e8afcde3233e8f0b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="199097708602b4a758537341bea4c2f18296b5d1">
+        sha1="d0021d4f59ad354555976ee586fbf34a29486e8a">
         <dex dex="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_47d8918d48369255bda2ad14b2de5e4f9989c43d/classes.dex" />
     </item>
     <item
@@ -61,7 +70,7 @@
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="87108c54d7194e383be9907f4f31b224ea86729b">
+        sha1="3f9f0c1c2c220614db511e480d96968fd95967a4">
         <dex dex="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f1101e04076c2788a3dd50f426a127e3e45375d2/classes.dex" />
     </item>
     <item
