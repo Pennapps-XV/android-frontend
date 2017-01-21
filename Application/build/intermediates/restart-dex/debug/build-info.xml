@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="arm64-v8a,armeabi-v7a,armeabi"
+    abi="x86_64,x86"
     api-level="25"
     density="420dpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="10571617334510"
-    token="-1221352529125826954"
+    timestamp="22200324204076"
+    token="-1272299163639167741"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="3295" />
+        duration="1096" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="897" />
+        duration="311" />
     <task
         name="verifier"
-        duration="24" />
+        duration="40" />
 
     <artifact
-        location="/home/kusti8/android-frontend/android-Camera2Basic/Application/build/outputs/apk/Application-debug.apk"
+        location="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/Application/build/outputs/apk/Application-debug.apk"
         type="MAIN" />
 
     <build
-        timestamp="10571617334510"
+        timestamp="22200324204076"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="/home/kusti8/android-frontend/android-Camera2Basic/Application/build/outputs/apk/Application-debug.apk"
+            location="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/Application/build/outputs/apk/Application-debug.apk"
             type="MAIN" />
     </build>
 

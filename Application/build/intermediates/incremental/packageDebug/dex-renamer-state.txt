@@ -1,7 +1,7 @@
-#Sat Jan 21 04:36:05 UTC 2017
-base.0=/home/kusti8/android-frontend/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b14d9815eb7da67f1bf728c1af50babe66c7f6e7
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=/home/kusti8/android-frontend/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_fdf5ca01c78efcd30e103cfcb95deb53b7601683/classes.dex
-base.1=/home/kusti8/android-frontend/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_fdf5ca01c78efcd30e103cfcb95deb53b7601683
-file.0=/home/kusti8/android-frontend/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b14d9815eb7da67f1bf728c1af50babe66c7f6e7/classes.dex
+#Sat Jan 21 00:04:03 EST 2017
+base.0=/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c5dd05f02ec3adf2bbdb7242ddb581ea955d060a
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_270c681ee9dc383d62f114122c8f52db10b2b93d/classes.dex
+base.1=/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_270c681ee9dc383d62f114122c8f52db10b2b93d
+file.0=/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c5dd05f02ec3adf2bbdb7242ddb581ea955d060a/classes.dex

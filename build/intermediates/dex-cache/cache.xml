@@ -3,183 +3,183 @@
 
     <item
         is-multidex="true"
-        jar="/home/kusti8/android-frontend/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/support-v13/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="9abf11d546d9e0ee82da86df608ced7a961b76ac">
-        <dex dex="/home/kusti8/android-frontend/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v13-25.0.1_1662b8b34aae434a41a2d16c47e45ce97d1ade77/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/kusti8/android-frontend/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
-        <dex dex="/home/kusti8/android-frontend/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_4a05cbcb37594a691a259f1b786f35c7da3d2259/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/kusti8/android-frontend/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/support-v13/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="cfb91ea7c6890336890ccb42767041af6b863e32">
-        <dex dex="/home/kusti8/android-frontend/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_ffa59de2c61e971b53303c1adb0fc2faa3daecce/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/kusti8/android-frontend/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
-        <dex dex="/home/kusti8/android-frontend/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_5e6bc58a240ae910e2ddc0e3c24169eb9417c48f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/opt/android-sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
-        <dex dex="/home/kusti8/android-frontend/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_bb89ebc23b87304a804e732671c2a1b398a258e2/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/kusti8/android-frontend/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
-        <dex dex="/home/kusti8/android-frontend/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_9053a3b983e07dd279906c745f5c55024cfa9e4c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/kusti8/android-frontend/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
-        <dex dex="/home/kusti8/android-frontend/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_d2059b45bafca857255514d115c7cecf47bec58e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/kusti8/android-frontend/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
-        <dex dex="/home/kusti8/android-frontend/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_a0a64e7fa67f0a94f861d0813c823e1d145c905f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/kusti8/android-frontend/android-Camera2Basic/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="7a2a787f6010dcf6f164ff3e324a8543bbfc7741">
-        <dex dex="/home/kusti8/android-frontend/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b14d9815eb7da67f1bf728c1af50babe66c7f6e7/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/kusti8/android-frontend/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="f83b00041ecfba705603fec40363416c7de69719">
-        <dex dex="/home/kusti8/android-frontend/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_10b099bb58b0f08b7d4414b4a591e3e2a5e46c4c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/kusti8/android-frontend/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
-        <dex dex="/home/kusti8/android-frontend/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_930ed1d66ee31af0f411bf71cf858967ab926d9f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/kusti8/android-frontend/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
-        <dex dex="/home/kusti8/android-frontend/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_2998c5f28891bc930c9b78bb18e48cc8f4b85ce0/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/kusti8/android-frontend/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
-        <dex dex="/home/kusti8/android-frontend/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_81b00333a6d8df933c19aaebc3aae200a6eafe4d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/kusti8/android-frontend/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
-        <dex dex="/home/kusti8/android-frontend/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_bf7162537a66e3e2e140c494d9f9f71dab71d1b3/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/kusti8/android-frontend/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
-        <dex dex="/home/kusti8/android-frontend/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_edfd96b3cf2814a62f776ca8bcf43531cebfba00/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/kusti8/android-frontend/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jar="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/Application/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/home/kusti8/android-frontend/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_288e40a9178ba6e7ec265bc56f950c0501c036cf/classes.dex" />
+        <dex dex="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_528f3eb897d07afbbdc546b4c705000e869c4bde/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/kusti8/android-frontend/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jar="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/Application/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
-        <dex dex="/home/kusti8/android-frontend/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_4c35730adc667f3686b7ccbefdf3ed7c730e5c31/classes.dex" />
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_01a255964010217c2243094e9f6a91761353d231/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/kusti8/android-frontend/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.1/jars/classes.jar"
+        jar="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/Application/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_adc5c3bb8ada7f0f65a47b359bce2b21606365cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/simon.guo/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/Application/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_eda74e39d3e21e390dd4bedb21493361438fc723/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/Application/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_1f0a58347bb8d52a9698559ad7ff2eff6fb1187a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38ff9dc91e5659df5d4513f32f919fb65da3c7fb">
+        <dex dex="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_270c681ee9dc383d62f114122c8f52db10b2b93d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/Application/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_4c04a980dac4355d9e51241c325a948cfe4cacb0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/Application/build/intermediates/exploded-aar/com.android.support/support-v13/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cfb91ea7c6890336890ccb42767041af6b863e32">
+        <dex dex="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_e299110b50a70443d7abc0aac8ab8e135017fb9e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
-        <dex dex="/home/kusti8/android-frontend/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.0.1_6e5fe40ebfe0c515ed9c8b886c5a487c268fc623/classes.dex" />
+        <dex dex="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.0.1_ce9df6b193878036c4ff7019724da0ab22201705/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/kusti8/android-frontend/android-Camera2Basic/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jar="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/Application/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="adeffbca3f37cba9fb85e9c2e21da08d3b8d1dea">
-        <dex dex="/home/kusti8/android-frontend/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_fdf5ca01c78efcd30e103cfcb95deb53b7601683/classes.dex" />
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_13ec2796b5cb7eadddb62bd63ea653f637ceff75/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/kusti8/android-frontend/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jar="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/Application/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_84a824c8ec71ff00983846dcfe3d8b8f1b14d719/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/Application/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_64daebe557b121d38eb8ac643fd991b0b6e26e50/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/Application/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
-        <dex dex="/home/kusti8/android-frontend/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_0778beb630f7e6e3ff047a2b0b71768d796d4eca/classes.dex" />
+        <dex dex="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_2c8eea63f5f54d0874f5662fc262cb0f27b20220/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/Application/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_dc368fa9e3254893d8028baf99e7820d24ced032/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5d995e8773a11bd20ea20a154dcf346f00acf5d">
+        <dex dex="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c5dd05f02ec3adf2bbdb7242ddb581ea955d060a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/Application/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_4d9130037dd903ffe41733b552e5323254bd62bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/Application/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_a8074f88345b1845aa9847c689ad6716bf62b0f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/Application/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_81bfd252066d23fe40b4018a07c6081bfebc594b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/Application/build/intermediates/exploded-aar/com.android.support/support-v13/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9abf11d546d9e0ee82da86df608ced7a961b76ac">
+        <dex dex="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v13-25.0.1_32c0d79085889562b54dd46796efb26eb585ccf8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_b290c36087061331178da059474d886cf4eff627/classes.dex" />
     </item>
 
 </items>
