@@ -5,40 +5,33 @@
     density="420dpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="8557383098761"
+    timestamp="10571617334510"
     token="-1221352529125826954"
-    verifier="COLD_SWAP_REQUESTED" >
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="904" />
+        duration="3295" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="101" />
+        duration="897" />
     <task
         name="verifier"
-        duration="9" />
+        duration="24" />
 
     <artifact
-        location="/home/kusti8/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
-        type="DEX" />
+        location="/home/kusti8/android-frontend/android-Camera2Basic/Application/build/outputs/apk/Application-debug.apk"
+        type="MAIN" />
 
     <build
-        timestamp="7803858551424"
+        timestamp="10571617334510"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="/home/kusti8/android-Camera2Basic/Application/build/outputs/apk/Application-debug.apk"
+            location="/home/kusti8/android-frontend/android-Camera2Basic/Application/build/outputs/apk/Application-debug.apk"
             type="MAIN" />
-    </build>
-    <build
-        timestamp="8557383098761"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="/home/kusti8/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
-            type="DEX" />
     </build>
 
 </instant-run>

@@ -1,7 +1,7 @@
-#Sat Jan 21 03:33:12 UTC 2017
-base.0=/home/kusti8/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_39993d6533693120a5245ba34ce9f70c3944306d
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=/home/kusti8/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_7223be77d3729a055f9104131cdc3793ab7baefc/classes.dex
-base.1=/home/kusti8/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_7223be77d3729a055f9104131cdc3793ab7baefc
-file.0=/home/kusti8/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_39993d6533693120a5245ba34ce9f70c3944306d/classes.dex
+#Sat Jan 21 04:36:05 UTC 2017
+base.0=/home/kusti8/android-frontend/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b14d9815eb7da67f1bf728c1af50babe66c7f6e7
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/kusti8/android-frontend/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_fdf5ca01c78efcd30e103cfcb95deb53b7601683/classes.dex
+base.1=/home/kusti8/android-frontend/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_fdf5ca01c78efcd30e103cfcb95deb53b7601683
+file.0=/home/kusti8/android-frontend/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b14d9815eb7da67f1bf728c1af50babe66c7f6e7/classes.dex
