@@ -3,183 +3,75 @@
 
     <item
         is-multidex="true"
-        jar="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/Application/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jar="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_528f3eb897d07afbbdc546b4c705000e869c4bde/classes.dex" />
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.1.1_fb27e41ae2a00b6fc9890e2a1f2f0c2e29f16000/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/Application/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jar="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
-        revision="25.0.2"
-        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
-        <dex dex="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_01a255964010217c2243094e9f6a91761353d231/classes.dex" />
+        revision="23.0.2"
+        sha1="5be075ba1b296f8103fd329e10a94d590f7976f6">
+        <dex dex="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_47d8918d48369255bda2ad14b2de5e4f9989c43d/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/Application/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jar="/Users/simon.guo/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
         jumboMode="true"
         optimize="true"
-        revision="25.0.2"
-        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
-        <dex dex="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_adc5c3bb8ada7f0f65a47b359bce2b21606365cb/classes.dex" />
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.1_01bfee9ab8b8049016cc4834fac691110538ebfc/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/simon.guo/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jar="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="25.0.2"
-        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
-        <dex dex="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/Application/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_eda74e39d3e21e390dd4bedb21493361438fc723/classes.dex" />
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.1.1_b964c4700a3e87f10822706b4189a91a298d6e9d/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/Application/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jar="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="25.0.2"
-        sha1="f83b00041ecfba705603fec40363416c7de69719">
-        <dex dex="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_1f0a58347bb8d52a9698559ad7ff2eff6fb1187a/classes.dex" />
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.1.1_1fc30ed81e2c35e06dc2af189225bf819be6fc0a/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
         jumboMode="true"
         optimize="true"
-        revision="25.0.2"
-        sha1="38ff9dc91e5659df5d4513f32f919fb65da3c7fb">
-        <dex dex="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_270c681ee9dc383d62f114122c8f52db10b2b93d/classes.dex" />
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_6aafc14f3f1297beb0c6ad27bc3b3f6706bfbb1f/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/Application/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jar="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
-        revision="25.0.2"
-        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
-        <dex dex="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_4c04a980dac4355d9e51241c325a948cfe4cacb0/classes.dex" />
+        revision="23.0.2"
+        sha1="de469d6baea0a6bc1690167144aa8731d968f0bd">
+        <dex dex="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f1101e04076c2788a3dd50f426a127e3e45375d2/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/Application/build/intermediates/exploded-aar/com.android.support/support-v13/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jar="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="25.0.2"
-        sha1="cfb91ea7c6890336890ccb42767041af6b863e32">
-        <dex dex="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_e299110b50a70443d7abc0aac8ab8e135017fb9e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
-        <dex dex="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.0.1_ce9df6b193878036c4ff7019724da0ab22201705/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/Application/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
-        <dex dex="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_13ec2796b5cb7eadddb62bd63ea653f637ceff75/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/Application/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
-        <dex dex="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_84a824c8ec71ff00983846dcfe3d8b8f1b14d719/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/Application/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
-        <dex dex="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_64daebe557b121d38eb8ac643fd991b0b6e26e50/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/Application/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
-        <dex dex="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_2c8eea63f5f54d0874f5662fc262cb0f27b20220/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/Application/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
-        <dex dex="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_dc368fa9e3254893d8028baf99e7820d24ced032/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="c5d995e8773a11bd20ea20a154dcf346f00acf5d">
-        <dex dex="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c5dd05f02ec3adf2bbdb7242ddb581ea955d060a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/Application/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
-        <dex dex="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_4d9130037dd903ffe41733b552e5323254bd62bb/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/Application/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
-        <dex dex="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_a8074f88345b1845aa9847c689ad6716bf62b0f1/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/Application/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
-        <dex dex="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_81bfd252066d23fe40b4018a07c6081bfebc594b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/Application/build/intermediates/exploded-aar/com.android.support/support-v13/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="9abf11d546d9e0ee82da86df608ced7a961b76ac">
-        <dex dex="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v13-25.0.1_32c0d79085889562b54dd46796efb26eb585ccf8/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
-        <dex dex="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_b290c36087061331178da059474d886cf4eff627/classes.dex" />
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/simon.guo/Desktop/Hackathon Projects/Penn Apps/android-frontend/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.1.1_cadf54e4451ae7fa22a6bb15f8c7be494135758e/classes.dex" />
     </item>
 
 </items>
