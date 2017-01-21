@@ -32,7 +32,6 @@ public class MainActivity extends AppCompatActivity {
 
     private TextView pictureText;
     private ImageView platyImageView;
-    private FloatingActionButton fab;
 
     private Button cambutton;
 
@@ -78,13 +77,13 @@ public class MainActivity extends AppCompatActivity {
      */
     private void setContent() {
         if (pictureTakenBitmap != null) {
-            pictureText.setText(R.string.retake_picture);
+            //pictureText.setText(R.string.retake_picture);
             platyImageView.setImageBitmap(pictureTakenBitmap);
-            fab.setImageResource(android.R.drawable.ic_menu_share);
+
         } else {
-            pictureText.setText(R.string.take_picture);
+            //pictureText.setText(R.string.take_picture);
             platyImageView.setImageResource(R.drawable.platy);
-            fab.setImageResource(android.R.drawable.ic_menu_camera);
+
         }
 
     }
