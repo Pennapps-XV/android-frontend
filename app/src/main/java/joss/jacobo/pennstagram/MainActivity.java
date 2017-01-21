@@ -45,6 +45,7 @@ public class MainActivity extends AppCompatActivity {
     private ImageView platyImageView;
 
     private Button cambutton;
+    private Button searchbutton;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -52,6 +53,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         cambutton = (Button) findViewById(R.id.cam_button);
+        searchbutton = (Button) findViewById(R.id.search_button);
         setSupportActionBar(toolbar);
 
         pictureText = (TextView) findViewById(R.id.text);
@@ -63,6 +65,14 @@ public class MainActivity extends AppCompatActivity {
                 startImageCapture();
             }
 
+        });
+
+        searchbutton.setOnClickListener(new View.OnClickListener(){
+            @Override
+            public void onClick(View view){
+                Intent intent = new Intent(MainActivity.this, SearchActivity.class);
+                startActivity(intent);
+            }
         });
 
         // Set ImageView's onClickListener
