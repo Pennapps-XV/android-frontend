@@ -13,6 +13,7 @@ import android.support.design.widget.FloatingActionButton;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.View;
+import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
@@ -33,27 +34,25 @@ public class MainActivity extends AppCompatActivity {
     private ImageView platyImageView;
     private FloatingActionButton fab;
 
+    private Button cambutton;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
+        cambutton = (Button) findViewById(R.id.cam_button);
         setSupportActionBar(toolbar);
 
-        fab = (FloatingActionButton) findViewById(R.id.fab);
         pictureText = (TextView) findViewById(R.id.text);
         platyImageView = (ImageView) findViewById(R.id.platy);
 
-        // Set FAB's onClickListener
-        fab.setOnClickListener(new View.OnClickListener() {
+        cambutton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                if (pictureTakenBitmap == null) {
-                    startImageCapture();
-                } else {
-                    shareImage();
-                }
+                startImageCapture();
             }
+
         });
 
         // Set ImageView's onClickListener
