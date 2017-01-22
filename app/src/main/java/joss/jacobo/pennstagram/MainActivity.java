@@ -14,6 +14,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.util.Base64;
 import android.util.Log;
 import android.view.View;
+import android.widget.Button;
 import android.widget.ImageButton;
 import android.widget.ImageView;
 import android.widget.TextView;
@@ -26,9 +27,12 @@ import com.android.volley.VolleyError;
 import com.android.volley.toolbox.StringRequest;
 import com.android.volley.toolbox.Volley;
 
+import java.io.BufferedReader;
 import java.io.ByteArrayOutputStream;
 import java.io.File;
 import java.io.IOException;
+import java.io.InputStream;
+import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
 import java.net.URL;
 import java.util.HashMap;
@@ -41,7 +45,6 @@ public class MainActivity extends AppCompatActivity
     private static final String STATE_PICTURE_TAKEN_BITMAP = "state_picture_taken_bitmap";
     private static final String STATE_PICTURE_URI = "state_picture_uri";
     private static final String IMAGE_NAME = "captured_image";
-
     private Uri pictureFileUri;
     private Bitmap pictureTakenBitmap;
 
@@ -56,8 +59,9 @@ public class MainActivity extends AppCompatActivity
         final ImageButton imageButton2 = (ImageButton) findViewById(R.id.imageButton2);
         final ImageButton imageButton3 = (ImageButton) findViewById(R.id.imageButton3);
         final ImageButton imageButton4 = (ImageButton) findViewById(R.id.imageButton4);
-        final ImageButton requestButton = (ImageButton) findViewById(R.id.searchButton);
+        final Button requestButton = (Button) findViewById(R.id.searchButton);
 
+        uploadImage("dwa");
 
         imageButton1.setOnClickListener(new View.OnClickListener()
         {
@@ -98,7 +102,6 @@ public class MainActivity extends AppCompatActivity
                 HttpPOSTRequestWithParameters();
             }
         });
-
 
         // If the savedInstanceState bundle is not null, it means we saved data in it.
         // Grab the data out and restore the state (i.e. Text, Image, and Button Icon)
@@ -296,12 +299,14 @@ public class MainActivity extends AppCompatActivity
     {
         RequestQueue queue = Volley.newRequestQueue(this);
         String url = "45.33.95.66:8081";
+        System.out.println("ela mpika");
         StringRequest putRequest =
                 new StringRequest(Request.Method.PUT, url, new Response.Listener<String>()
                 {
                     @Override public void onResponse(String response)
                     {
                         // response
+                        System.out.println(response);
                         Log.d("Response", response);
                     }
                 }, new Response.ErrorListener()
@@ -309,6 +314,7 @@ public class MainActivity extends AppCompatActivity
                     @Override public void onErrorResponse(VolleyError error)
                     {
                         // error
+                        System.out.println(error.getMessage());
                         Log.d("Error.Response", error.getMessage());
                     }
                 })
@@ -323,4 +329,3 @@ public class MainActivity extends AppCompatActivity
         queue.add(putRequest);
     }
 }
-

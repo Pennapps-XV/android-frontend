@@ -10,67 +10,13 @@
         android:layout_height="wrap_content"
         android:layout_margin="20dp"
         android:textColor="#ffffff"
-        android:textSize="35sp"
+        android:textSize="40sp"
         android:text="ShopRight"
         android:id="@+id/shopRightTV"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"/>
 
-
-    <TableLayout
-        android:id="@+id/tableLayoutId"
-        android:layout_below="@id/shopRightTV"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:layout_marginLeft="20dp"
-        android:layout_marginRight="20dp"
-        android:layout_weight="1"
-        android:orientation="horizontal"
-        android:layout_above="@+id/searchButton"
-        android:layout_marginBottom="20dp">
-
-        <TableRow>
-
-            <ImageButton
-                android:id="@+id/imageButton1"
-                android:layout_width="200dp"
-                android:layout_height="150dp"
-                android:layout_weight="1"
-                android:src="@mipmap/ic_camera"
-                android:text="Picture 1"
-                android:textAlignment="center"/>
-
-            <ImageButton
-                android:id="@+id/imageButton2"
-                android:layout_width="200dp"
-                android:layout_height="150dp"
-                android:layout_weight="1"
-                android:src="@mipmap/ic_camera"
-                android:text="Picture 2"/>
-        </TableRow>
-
-        <TableRow>
-
-            <ImageButton
-                android:id="@+id/imageButton3"
-                android:layout_width="200dp"
-                android:layout_height="150dp"
-                android:layout_weight="1"
-                android:src="@mipmap/ic_camera"
-                android:text="Picture 3"/>
-
-            <ImageButton
-                android:id="@+id/imageButton4"
-                android:layout_width="200dp"
-                android:layout_height="150dp"
-                android:layout_weight="1"
-                android:gravity="center"
-                android:src="@mipmap/ic_camera"
-                android:text="Picture 4"/>
-        </TableRow>
-    </TableLayout>
-
-    <ImageButton
+    <Button
         android:background="@drawable/round_button"
         android:id="@+id/searchButton"
         android:layout_width="100dp"
@@ -78,9 +24,73 @@
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="11dp"
-        android:layout_weight="0.20"
-        android:src="@mipmap/ic_search"
-        android:text="Camera"
+        android:text="Compute"
         android:textAlignment="center"/>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_below="@+id/shopRightTV"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="44dp">
+
+
+        <ImageButton
+            android:background="#ffffff"
+            android:id="@+id/imageButton1"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:src="@mipmap/ic_camera"
+            android:text="Picture 1"
+            android:textAlignment="center"
+            android:layout_marginTop="20dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginLeft="17dp"
+            android:layout_marginStart="17dp"/>
+
+        <ImageButton
+        android:background="#ffffff"
+        android:layout_marginTop="12dp"
+        android:id="@+id/imageButton4"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:gravity="center"
+        android:src="@mipmap/ic_camera"
+        android:text="Picture 4"
+        android:layout_below="@+id/imageButton1"
+        android:layout_alignLeft="@+id/imageButton1"
+        android:layout_alignStart="@+id/imageButton1"/>
+
+        <ImageButton
+        android:background="#ffffff"
+        android:id="@+id/imageButton2"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_weight="1"
+        android:src="@mipmap/ic_camera"
+        android:text="Picture 2"
+        android:layout_alignTop="@+id/imageButton1"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginRight="22dp"
+        android:layout_marginEnd="22dp"/>
+
+        <ImageButton
+        android:background="#ffffff"
+        android:id="@+id/imageButton3"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_weight="1"
+        android:src="@mipmap/ic_camera"
+        android:text="Picture 3"
+        android:layout_alignTop="@+id/imageButton4"
+        android:layout_alignLeft="@+id/imageButton2"
+        android:layout_alignStart="@+id/imageButton2"/>
+    </RelativeLayout>
+
 
 </RelativeLayout>

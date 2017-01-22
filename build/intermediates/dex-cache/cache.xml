@@ -3,6 +3,33 @@
 
     <item
         is-multidex="true"
+        jar="/Users/mkotsollaris/AndroidStudioProjects/android-frontend/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/mkotsollaris/AndroidStudioProjects/android-frontend/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.1.1_187c600928230fbe0179d7f51540ce4d1005d377/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mkotsollaris/AndroidStudioProjects/android-frontend/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8f41770f26b0d58b43ba40ca8f5723d2abfab3f1">
+        <dex dex="/Users/mkotsollaris/AndroidStudioProjects/android-frontend/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f807e7fa2b4d693c1305db4cedc6e3a4ccc2978a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mkotsollaris/AndroidStudioProjects/android-frontend/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/mkotsollaris/AndroidStudioProjects/android-frontend/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_0f845c4b14b6975c80474aa729eebcb0794393e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/mkotsollaris/AndroidStudioProjects/android-frontend/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -39,39 +66,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/mkotsollaris/AndroidStudioProjects/android-frontend/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
-        <dex dex="/Users/mkotsollaris/AndroidStudioProjects/android-frontend/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.1.1_187c600928230fbe0179d7f51540ce4d1005d377/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mkotsollaris/AndroidStudioProjects/android-frontend/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="edd5cf14f54f74656964e1e9a6bd0dfe25759ec9">
-        <dex dex="/Users/mkotsollaris/AndroidStudioProjects/android-frontend/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f807e7fa2b4d693c1305db4cedc6e3a4ccc2978a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/mkotsollaris/AndroidStudioProjects/android-frontend/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="f3f9595785bf6c1c62be99b1bc9a96a49a5ad7f7">
+        sha1="a20c2c430f4f15d3d04dd6399efb616eba2194d1">
         <dex dex="/Users/mkotsollaris/AndroidStudioProjects/android-frontend/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_72812a7d71b0b275693f10a98073c843685b17a5/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mkotsollaris/AndroidStudioProjects/android-frontend/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
-        <dex dex="/Users/mkotsollaris/AndroidStudioProjects/android-frontend/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_0f845c4b14b6975c80474aa729eebcb0794393e0/classes.dex" />
     </item>
     <item
         is-multidex="true"
